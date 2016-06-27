@@ -202,6 +202,86 @@ html {
 		column-count: 2;
 	}
 }
+
+/********************** Pull Querries *******************************/
+@media only screen and (min-width:950px){
+	.pull-1 {
+		right:8.333%;
+	}
+	.pull-2 {
+		right:16.666%;
+	}
+	.pull-3 {
+		right:25%;
+	}
+	.pull-4 {
+		right:33.333%;
+	}
+	.pull-5 {
+		right:41.666%;
+	}
+	.pull-6 {
+		right:50%;
+	}
+	.pull-7 {
+		right:58.333%;
+	}
+	.pull-8 {
+		right:66.666%;
+	}
+	.pull-9 {
+		right:75%;
+	}
+	.pull-10 {
+		right:83.333%;
+	}
+	.pull-11 {
+		right:91.666%;
+	}
+	.pull-12 {
+		right:100%;
+	}	
+}
+
+/********************** Push Querries *******************************/
+@media only screen and (min-width:950px){
+	.push-1 {
+		left:8.333%;
+	}
+	.push-2 {
+		left:16.666%;
+	}
+	.push-3 {
+		left:25%;
+	}
+	.push-4 {
+		left:33.333%;
+	}
+	.push-5 {
+		left:41.666%;
+	}
+	.push-6 {
+		left:50%;
+	}
+	.push-7 {
+		left:58.333%;
+	}
+	.push-8 {
+		left:66.666%;
+	}
+	.push-9 {
+		left:75%;
+	}
+	.push-10 {
+		left:83.333%;
+	}
+	.push-11 {
+		left:91.666%;
+	}
+	.push-12 {
+		left:100%;
+	}	
+}
 /********************************* End of Column Styles ***********************************/
 
 
